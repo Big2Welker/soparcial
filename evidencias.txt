@@ -1,0 +1,94 @@
+Evidencias para Sebastian ( 2246990 )
+ok - /root/dataexplorer/app/backend/controller.ts
+ok - /root/dataexplorer/app/frontend/js/button_manager.js
+ok - /root/dataexplorer/app/frontend/js/text_interaction.js
+ok - /root/dataexplorer/app/frontend/css/styles1.css
+ok - /root/dataexplorer/app/frontend/css/styles2.css
+ok - /root/dataexplorer/app/frontend/css/styles3.css
+ok - /root/dataexplorer/app/frontend/index.html
+ok - /root/dataexplorer/app/frontend/about.html
+ok - /root/dataexplorer/app/frontend/contact.html
+    1  ls
+    2  ls dataexplorer
+    3  rm -f dataexplorer
+    4  rm -f environment.txt
+    5  clear
+    6  ls
+    7  rm -f /cd/dataexplorer
+    8  ls
+    9  clear
+   10  sudo rnf install git -y
+   11  sudo dnf install git /y
+   12  sudo dnf install git -y
+   13  git --version
+   14  git config --global user.name Big2Welker
+   15  git config --global user.email sebastian.rojas_h@uao.edu.co
+   16  git config --list
+   17  cd
+   18  git clone https://github.com/Big2Welker/soparcial
+   19  ls
+   20  cd/soparcial
+   21  cd ~/soparcial
+   22  sudo mv *.sh ~/vagrant/
+   23  cd
+   24  mkdir ~/vagrant
+   25  ls
+   26  cd ~/soparcial
+   27  sudo mv *.sh ~/vagrant/
+   28  cd
+   29  cd ~/vagrant
+   30  ls
+   31  cd
+   32  rm -rf ~/dataexplorer
+   33  ls
+   34  clear
+   35  cd ~/vagrant
+   36  ls
+   37  type source
+   38  help source
+   39  cd
+   40  source/vagrant/dataexplorer_setup.sh
+   41  clear
+   42  source ~/vagrant/dataexplorer_setup.sh
+   43  ls -l ~/dataexplorer
+   44  cat ~/dataexplorer/enviroment.txt
+   45  clear
+   46  cp ~/vagrant/dataexplorer_v_1_0.tar.gz ~/dataexplorer/
+   47  clear
+   48  cd ~/vagrant
+   49  ls
+   50  clear
+   51  cd
+   52  clear
+   53  cd ~/soparcial
+   54  ls
+   55  cp ~/soparcial/dataexplorer_v_1_0.gz ~/vagrant/
+   56  cp ~/soparcial/dataexplorer_v_1_0.tar.gz ~/vagrant/
+   57  clear
+   58  cd
+   59  clear
+   60  cp ~/vagrant/dataexplorer_v_1_0.tar.gz ~/dataexplorer/
+   61  cd ~/dataeplorer
+   62  cd ~/dataexplorer
+   63  tar -xzvf dataexplorer_v_1_0.tar.gz
+   64  clear
+   65  cd
+   66  mkdir -p app/backend app/frontend/css app/frontend/js
+   67  ls
+   68  rm -rf ~/app
+   69  ls
+   70  clear
+   71  cd ~/dataexplorer
+   72  clear
+   73  mkdir -p app/backend app/frontend/css app/frontend/js
+   74  mv controller.ts app/backend/
+   75  mv *.html app/frontend/
+   76  mv *.css app/frontend/css/
+   77  mv *.js app/frontend/js/
+   78  tree app
+   79  clear
+   80  cd
+   81  clear
+   82  ls -l ~/vagrant
+   83  clear
+   84  source ~/vagrant/collect_evidence.sh
